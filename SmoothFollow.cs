@@ -3,6 +3,8 @@ using System.Collections;
 --------
 
 ----------------+++++
+	
+	//服务器修改了
 public class SmoothFollow : MonoBehaviour {
 
     public float distance = 10.0f;
