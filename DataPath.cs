@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 ---------
+	//服务器修改后的文件
 public class DataPath : MonoBehaviour {
 
 	// Use this for initialization
